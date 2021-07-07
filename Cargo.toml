@@ -1,6 +1,6 @@
 [package]
 name = "strip_cargo_version"
-version = "0.0.1"
+version = "0.0.2"
 description = "Strip the version information from Cargo.* of your single binary crate"
 authors = [
 	"Joakim Hulthe <joakim@hulthe.net>",
