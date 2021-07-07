@@ -76,7 +76,7 @@ dependencies = [
 
 [[package]]
 name = "strip_cargo_version"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
  "toml_edit",
 ]
