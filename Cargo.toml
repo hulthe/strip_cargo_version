@@ -7,6 +7,9 @@ authors = [
 ]
 readme = "README.md"
 license = "MPL-2.0"
+repository = "https://github.com/hulthe/strip_cargo_version"
+categories = ["command-line-utilities"]
+keywords = ["cargo", "manifest", "version", "docker", "cache"]
 edition = "2018"
 
 [dependencies]
