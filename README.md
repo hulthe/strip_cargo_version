@@ -1,3 +1,6 @@
+strip\_cargo\_version
+=====================
+
 A small hacky utility for setting the version of a Rust crate to `0.0.0`.
 
 I use this for optimising build-times in Docker, avoiding
