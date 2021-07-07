@@ -1,11 +1,13 @@
 [package]
 name = "strip_cargo_version"
 version = "0.0.1"
-edition = "2018"
 description = "Strip the version information from Cargo.* of your single binary crate"
 authors = [
 	"Joakim Hulthe <joakim@hulthe.net>",
 ]
+readme = "README.md"
+license = "MPL-2.0"
+edition = "2018"
 
 [dependencies]
 toml_edit = "0.2.1"
